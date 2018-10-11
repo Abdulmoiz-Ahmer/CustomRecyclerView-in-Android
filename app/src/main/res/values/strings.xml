@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskFour</string>
+    <string name="movie_name">Name:</string>
+    <string name="year">Year Released:</string>
+    <string name="review">Review:</string>
+
+</resources>
